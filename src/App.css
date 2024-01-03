@@ -1,0 +1,25 @@
+.navbar-nav a{
+  font-size:18pxk
+}
+
+.button-container {
+  display: flex;
+  gap: 10px; /* Adjust the gap as needed */
+}
+
+.buttons {
+  text-decoration: none; /* Remove underlines from links */
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+
+.btn-outline-dark {
+  color: #495057;
+  border-color: #495057;
+}
+
+.btn-outline-dark:hover {
+  color: #fff;
+  background-color: #495057;
+  border-color: #495057;
+}
